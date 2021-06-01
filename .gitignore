@@ -39,7 +39,6 @@ local.properties
 .buildpath
 .target
 /build/
-target/
 
 # Spring 팀프로젝트 충돌 방지
 MANIFEST.MF
